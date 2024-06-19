@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "Mon Site",
+    "description": "Le titre dans la barre de navigation"
+  },
+  "logo.alt": {
+    "message": "Logo de Mon Site",
+    "description": "Le texte alternatif du logo de la barre de navigation"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Élément de la barre de navigation avec l'étiquette Docs"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Élément de la barre de navigation avec l'étiquette Blog"
+  },
+  "item.label.About": {
+    "message": "À propos",
+    "description": "Élément de la barre de navigation avec l'étiquette À propos"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Élément de la barre de navigation avec l'étiquette GitHub"
+  }
+}
