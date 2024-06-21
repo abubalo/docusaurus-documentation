@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Semaphore',
-  tagline: 'Build, Test, Delpoy',
+  tagline: 'Build, Test, Delpoy - At Lightning Speed',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
